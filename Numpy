@@ -1,0 +1,8 @@
+import numpy as np
+
+arr = np.array([15, 45, 8, 90, 32])
+
+print("Maximum:", np.max(arr))
+print("Minimum:", np.min(arr))
+print("Average:", np.mean(arr))
+print("Total:", np.sum(arr))
